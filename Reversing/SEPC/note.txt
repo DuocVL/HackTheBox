@@ -1,0 +1,2 @@
+Kịch bản thử thách
+Chúng tôi đã trích xuất được một hệ điều hành nhúng chạy trên một vệ tinh không gian sâu bị Arodor phóng đi và chặn bắt. Nếu chúng ta có thể xâm nhập vào vùng an toàn và trích xuất các cơ chế bảo mật của chúng, chúng ta có thể phá vỡ các liên lạc được mã hóa của chúng

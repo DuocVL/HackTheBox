@@ -1,0 +1,2 @@
+Kịch bản thử thách
+Trong các lần kiểm tra định kỳ máy chủ lưu trữ cờ bí mật, chúng tôi phát hiện ra mình đã bị tấn công bởi mã độc tống tiền! Dữ liệu cờ gốc không thể tìm thấy ở bất cứ đâu, nhưng may mắn thay chúng ta không chỉ có tệp được mã hóa mà còn cả chương trình mã hóa.

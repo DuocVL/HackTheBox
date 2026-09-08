@@ -1,0 +1,2 @@
+Kịch bản thử thách
+Nhà phát triển đang thử nghiệm nhiều cách khác nhau để bảo vệ phần mềm của họ. Họ đã gửi một tệp nhị phân Windows được cho là cực kỳ bảo mật và thực sự khó gỡ lỗi. Hãy gỡ lỗi và xem bạn có tìm thấy cờ đó không.
