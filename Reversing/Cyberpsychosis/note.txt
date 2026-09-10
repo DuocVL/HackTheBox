@@ -1,2 +1,0 @@
-Kịch bản thử thách
-Các đối tượng xấu đã xâm nhập vào hệ thống của chúng tôi và chúng tôi tin rằng chúng đã cài đặt một rootkit tùy chỉnh. Bạn có thể vô hiệu hóa rootkit và tìm dữ liệu ẩn không?

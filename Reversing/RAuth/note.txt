@@ -1,2 +1,0 @@
-Kịch bản thử thách
-Việc triển khai các cơ chế xác thực bằng ngôn ngữ C của tôi đã thất bại. Nhưng cách triển khai của tôi bằng Rust là không thể phá vỡ. Bạn có thể lấy lại mật khẩu của tôi không?
