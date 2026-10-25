@@ -149,6 +149,18 @@ void xor(long param_1,long param_2,ulong param_3,byte param_4)
 }
 ```
 
+```python
+
+def xor_hex(hex_string):
+    data = bytes.fromhex(hex_string)
+
+    result = bytes(b ^ 0x13 for b in data)
+    print(result.decode("utf-8"))
+    
+hex_string = input("Nhập chuỗi hex: ")
+xor_hex(hex_string)
+```
+
 > - Kết nối đến hệ thống để trả lời câu hỏi 
 > - Loại file ELF, kiến trúc x86_64
 > - Thư viện chứa hàm readlin() là `libreadline.so.8` 
